@@ -14,4 +14,4 @@ Some other Scripts might follow.
 Hey by the way, the "musthave-mac-script.sh" is my first script i have build from scratch. I am open how to further improve it.
 You could add it to a cron job, but i have some odd stuff happening if i update my browser and still have the app running, so i trigger the script manually therefore.
 
-(topgrade Made this some hoe obsolete)
+(topgrade Made this some hoe obsolete, but is really nice)
